@@ -1,3 +1,3 @@
 print(bool("abc"))
 
-#True#
+ #True#
