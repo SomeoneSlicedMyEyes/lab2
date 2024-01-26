@@ -3,4 +3,4 @@ class myclass():
     return 0
 
 myobj = myclass()
-print(bool(myobj))
+print(bool(myobj)) 

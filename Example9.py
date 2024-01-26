@@ -3,5 +3,5 @@ def myFunction() :
 
 if myFunction():
   print("YES!")
-else:
+else: 
   print("NO!")
